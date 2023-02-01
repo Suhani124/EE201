@@ -1,0 +1,7 @@
+Annotated 4.7 μF as C1.
+Annotated LED as D1.
+Annotated 9 V as J1.
+Annotated 2.2 kΩ as R1.
+Annotated 20 kΩ as R2.
+Annotated SW_SPDT as SW1.
+Annotation complete.
